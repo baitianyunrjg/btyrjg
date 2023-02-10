@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to right , #7A88FF, #7AFFAF);
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(to bottom , #7A88FF, #7AFFAF);
+}
+html, body {
+    width: 100%;
+    height: 100%;
+}
+body {
+    background-image: linear-gradient(to bottom right, #7A88FF, #7AFFAF);
+}

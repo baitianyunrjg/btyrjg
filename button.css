@@ -1,0 +1,29 @@
+.toko{
+
+    width: 200px;
+  
+    margin: 0 auto;
+  
+    padding: 0px;
+  
+    background: #0eb7eb;
+  
+    color: #ffffff;
+  
+    text-align: center;
+  
+  }
+  
+  .toko:hover{
+  
+    opacity: 0.5;
+  
+  }
+  
+   
+  
+  a{
+  
+    text-decoration: none;
+  
+  }
